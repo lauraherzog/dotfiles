@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# get my dot files
+!.bashrc
+!.vimrc
+!.gitignore
